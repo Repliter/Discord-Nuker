@@ -1,4 +1,5 @@
-# Made by Cedric#0591
+# Made by Repliter#0315
+
 
 import discord
 from time import sleep
